@@ -1,35 +1,20 @@
-name: 💡 Feature Request / Improvement
-description: Suggest a new feature or improvement
-labels: enhancement
-body:
-  - type: input
-    id: title
-    attributes:
-      label: Feature Summary
-      description: What would you like to see added or changed?
-    validations:
-      required: true
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
-  - type: textarea
-    id: context
-    attributes:
-      label: Context / Problem
-      description: What problem does this solve or what’s the use case?
+---
 
-  - type: textarea
-    id: solution
-    attributes:
-      label: Suggested Solution
-      description: How could this be implemented or improved?
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-  - type: input
-    id: urgency
-    attributes:
-      label: Timeline / Priority
-      description: Optional. When would this be needed or how critical is it? (Please help justify)
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-  - type: textarea
-    id: extra
-    attributes:
-      label: Additional Context
-      description: Links, related issues, references, or screenshots.
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.

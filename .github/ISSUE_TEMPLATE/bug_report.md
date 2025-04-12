@@ -1,39 +1,38 @@
-name: 🐛 Bug Report
-description: Report a reproducible software bug.
-labels: bug
-body:
-  - type: input
-    id: title
-    attributes:
-      label: Bug Summary
-      description: Clear and concise summary of the problem
-    validations:
-      required: true
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-  - type: textarea
-    id: description
-    attributes:
-      label: Description
-      description: Describe the bug in detail. Include what you expected vs. what happened.
-    validations:
-      required: true
+---
 
-  - type: textarea
-    id: steps
-    attributes:
-      label: Steps to Reproduce
-      description: How can we reproduce the issue? Be as detailed as possible.
-    validations:
-      required: true
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-  - type: input
-    id: environment
-    attributes:
-      label: Environment
-      description: Firmware/app version, hardware model, browser (if applicable)
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-  - type: textarea
-    id: additional
-    attributes:
-      label: Additional Information
-      description: Screenshots, logs, related issues, etc.
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
