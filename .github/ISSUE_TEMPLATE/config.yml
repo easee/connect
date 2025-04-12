@@ -1,0 +1,13 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: 🐛 Bug Report
+    description: Report a reproducible software bug.
+    file: bug_report.md
+
+  - name: 💡 Feature Request / Improvement
+    description: Suggest a new feature or improvement.
+    file: feature_request.md
+
+  - name: 💬 General Feedback
+    description: Share ideas, thoughts, or feedback that doesn’t fit a bug or feature request.
+    file: feedback.md
