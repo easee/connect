@@ -1,3 +1,4 @@
+---
 name: 💡 Feature Request / Improvement
 description: Suggest a new feature or improvement
 labels: enhancement
@@ -33,3 +34,4 @@ body:
     attributes:
       label: Additional Context
       description: Links, related issues, references, or screenshots.
+---

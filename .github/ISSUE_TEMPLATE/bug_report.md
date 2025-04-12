@@ -1,3 +1,4 @@
+---
 name: 🐛 Bug Report
 description: Report a reproducible software bug.
 labels: bug
@@ -37,3 +38,4 @@ body:
     attributes:
       label: Additional Information
       description: Screenshots, logs, related issues, etc.
+---

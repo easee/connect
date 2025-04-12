@@ -1,3 +1,4 @@
+---
 name: 💬 General Feedback
 description: Share ideas, thoughts, or feedback that doesn’t fit a bug or feature request.
 labels: feedback
@@ -44,3 +45,4 @@ body:
       label: Got an idea?
       description: Totally optional – if you’ve got a take on how to make it better, drop it here.
       placeholder: What if it worked like this...?
+---
