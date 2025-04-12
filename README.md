@@ -70,7 +70,16 @@ The Discussions tab is open for:
 - 🧠 Brainstorming and ideas
 - ❓ Developer questions
 
+You can also browse topics by category:
+- 💡 Feature ideas – Suggestions that may or may not become issues
+- ❓ Help and questions – Get unstuck or clarify something
+- 🤝 General discussion – Anything that doesn’t fit elsewhere
+- 🧠 Suggestions & insights – Broader feedback or strategy ideas
+- 🛠 Troubleshooting tips – Known quirks, fixes, and community hacks
+
 Let’s build a helpful and fun community together!
+
+📌 Check out the pinned welcome post in General discussion to get started.
 
 ---
 
