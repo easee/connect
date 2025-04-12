@@ -15,7 +15,7 @@ Thanks for your interest in contributing! To ensure a collaborative and construc
 
 ## 🛠 Moderation
 
-- This repo is monitored by Easee employees and engineers.
+- This repo is monitored by Easee employees (product managers and engineers).
 - Community comments are welcome on all issues.
 - We will triage and label issues to prioritize.
 
@@ -30,7 +30,7 @@ Thanks for your interest in contributing! To ensure a collaborative and construc
 
 ---
 
-## 📜 Code of Conduct
+## 📜 Code of conduct
 
 Please follow our [Code of Conduct](./CODE_OF_CONDUCT.md) to foster a positive space for collaboration.
 
