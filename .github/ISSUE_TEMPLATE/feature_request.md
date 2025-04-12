@@ -1,0 +1,35 @@
+name: 💡 Feature Request / Improvement
+description: Suggest a new feature or improvement
+labels: enhancement
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Feature Summary
+      description: What would you like to see added or changed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context / Problem
+      description: What problem does this solve or what’s the use case?
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Suggested Solution
+      description: How could this be implemented or improved?
+
+  - type: input
+    id: urgency
+    attributes:
+      label: Timeline / Priority
+      description: Optional. When would this be needed or how critical is it? (Please help justify)
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional Context
+      description: Links, related issues, references, or screenshots.
