@@ -1,4 +1,5 @@
 # Easee-connect
+<img src=".github/social-preview.png" alt="Social Preview" width="300"/>
 
 Welcome to **easee-connect** – the public issue tracker and feedback space for Easee's apps, APIs, and web services.
 
