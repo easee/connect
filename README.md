@@ -1,9 +1,10 @@
-# Easee-connect
+# Easee Connect
+
 <img src=".github/social-preview.png" alt="Social Preview" width="300"/>
 
-Welcome to **easee-connect** – the public issue tracker and feedback space for Easee's apps, APIs, and web services.
+Welcome to **Easee Connect** – the public issue tracker and feedback space for Easee's apps, APIs, and web services.
 
-This is where the technical community can share ideas, report software bugs, and help shape future improvements to the Easee family of products and services. If you’ve got thoughts – we’re listening!
+This is where the technical community can share ideas, report software bugs, and help shape future improvements to the Easee family of products and services. If you've got thoughts – we're listening!
 
 ---
 
@@ -24,6 +25,7 @@ This repository is focused on software-related feedback and is monitored by the 
 ## How to submit something
 
 Click **“New issue”** and choose a template:
+
 - 🐛 Bug report
 - 💡 Feature request
 - 💬 General feedback
@@ -45,6 +47,7 @@ The templates are designed to make it quick and easy to share. We keep things in
 ## Apps and services covered here
 
 We welcome feedback related to:
+
 - **Easee App** (for EV drivers and home energy users)
 - **Installer App** (for professional setup and diagnostics)
 - **Web apps**: Easee Fix, Easee Control, Easee Portal, ST Portal (legacy)
@@ -57,6 +60,7 @@ We welcome feedback related to:
 For full details on how to engage, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 In short:
+
 - Be respectful and constructive
 - Keep it on-topic
 - Add as much detail as possible
@@ -67,14 +71,16 @@ In short:
 ## Discussions and community
 
 The Discussions tab is open for:
+
 - 🤝 General conversations
 - 🧠 Brainstorming and ideas
 - ❓ Developer questions
 
 You can also browse topics by category:
+
 - 💡 Feature ideas – Suggestions that may or may not become issues
 - ❓ Help and questions – Get unstuck or clarify something
-- 🤝 General discussion – Anything that doesn’t fit elsewhere
+- 🤝 General discussion – Anything that doesn't fit elsewhere
 - 🧠 Suggestions & insights – Broader feedback or strategy ideas
 - 🛠 Troubleshooting tips – Known quirks, fixes, and community hacks
 
@@ -90,4 +96,4 @@ Easee moderators (including product and engineering team members) help keep this
 
 ---
 
-Thanks for being part of **easee-connect** 💙
+Thanks for being part of **Easee Connect** 💙
